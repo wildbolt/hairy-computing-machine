@@ -1,0 +1,75 @@
+body {
+  font-family:Mistral,NotoSans,Helvetica,Arial;
+  background: url("IMG9830.jpg") no-repeat  center fixed;
+  background-size: cover;
+
+   /* background-color: #CCC; */
+    text-decoration: #FFF;
+}
+h1 {
+    color: #FFF;
+    font-family: mistral;
+    font-size: 2.51em;
+    margin: 19px 62px;
+}
+h3{
+    color: #FFF;
+    padding: 45px 42px 21px 64px;
+}
+button  {
+    background-color: #00A9E0;
+    border: 1px solid #00A9E0;
+    border-radius: 2px;
+    color: #FFF;
+    cursor: pointer;
+    display: inline;
+    font-size: 1.25em;
+    height: 40px;
+    margin: 5px;
+    width: 100px;
+}
+a {
+    text-decoration: none;
+}
+.box {
+    border: 2px solid #6E8900;
+    background-color: #6E8900;
+    display: block;
+    color: #FFF;
+    padding: 20px;
+    width: 200px;
+    height: 94px;
+    margin: 22px 314px 90px;
+}
+#jam {
+    border: 2px solid #FF4425;
+    background-color: #FF4425;
+    text-decoration: italic;
+    display: block;
+    padding: 20px;
+    color: #FFF;
+    width: 221px;
+    height: 154px;
+    margin: -227px 0px 11px;
+}
+input {
+    width: 15%;
+    height: 37px;
+    margin: 5px;
+    border-style: solid;
+    border-color: #C0C0C0 #D9D9D9 #D9D9D9;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.075) inset, 0px 0px 12px rgba(255, 255, 255, 0.75);
+    text-align: center;
+    font-size: 1.23em;
+}
+p{
+    text-align:justify;
+    padding:0px 85px 0px 66px;
+    color: #FFF;
+    font-size: 1.3em;
+
+}
+footer {
+  color:#FFF;
+  margin: 50px 10px 0px 350px;
+}
